@@ -27,17 +27,17 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
-  BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'private', // ex: public/private
+  BOT_NAME: '𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-®',
+  OWNER_NAME: 'MINUTH KAUSHALYA',
+  OWNER_NUMBER: '94728631354',
+  SUDO: '94740412225',
+  WORK_TYPE: 'public', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
-  STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  STICKER_PACK: 'QUEEN ELISA',
-  REMOVE_BG_APIKEY: '',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-®',
+  STICKER_AUTHOR: '𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-®',
+  STICKER_PACK: '𓆣⑉ꀘ꒐ꋊꍌ⃤ ꋬ꒒ꊰꋬ⑉ 🧙‍♂️-®',
+  REMOVE_BG_APIKEY: 'fcuDXvYvtQcHfgLk5bhvEtML',
   MAXIMUM_FILESIZE: 90, //size in MB
   OWNER_R_EMOJI: '💻',
   ALIVE_AS_GIF: false,//this only work for short videos
